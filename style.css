@@ -1,0 +1,48 @@
+div {
+  background: white;
+  padding: 30px;                             /* Internal space */
+  border-radius: 6px;                        /* Small radius */
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  width: 500px;        /* Set the width */
+  margin: 0 auto;
+  text-align: center
+}
+
+img {
+  border-radius: 15px
+}
+
+h1 {
+  font-family: 'EB Garamond', serif;
+  color: #73A8E8
+}
+
+h2 {
+  font-family: 'EB Garamond', serif;
+}
+
+p {
+  font-family: 'EB Garamond', serif;
+}
+
+.link:hover {
+  background-color: rgb(146, 140, 152);
+  opacity: 0.3;
+  border-radius: 5px;
+  color: red
+}
+.link{
+  color:blue
+}
+.link:visited{
+  color: lightseagreen;
+}
+
+ul{
+  padding-left: 10px;
+}
+
+.container{
+  width: 500px;
+  margin: 0 auto;
+}
